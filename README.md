@@ -10,3 +10,5 @@
 ### 📈 Activity Graph：
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=soup-Lee&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup-Lee&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+![](https://activity-graph.herokuapp.com/graph?username=soup-Lee&theme=react-dark)
